@@ -1,5 +1,8 @@
 def square_array(array)
-new_numbers.push(array.each do |i| i**2)
-   return new_numbers
+new_numbers = []
+array.each do |i|
+  i**2 = y
+  new_numbers.push(y)
    end
+   return new_numbers
 end
